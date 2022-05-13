@@ -22,8 +22,8 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=IshmamAbir&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+<img src="https://github-readme-stats.vercel.app/api?username=IshmamAbir&include_all_commits=true&count_private=true&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
 ---
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=IshmamAbir&card_width=550&show_icons=true&theme=radical)](https://github.com/IshmamAbir)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=IshmamAbir&card_width=550&show_icons=true&theme=gradient)](https://github.com/IshmamAbir)
