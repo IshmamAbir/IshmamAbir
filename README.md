@@ -26,4 +26,4 @@
 
 ---
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=IshmamAbir&langs_count=8&card_width=550&show_icons=true&theme=react)](https://github.com/IshmamAbir)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=IshmamAbir&langs_count=8&hide=Python&card_width=550&show_icons=true&theme=radical)](https://github.com/IshmamAbir)
