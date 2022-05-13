@@ -1,10 +1,10 @@
 ### Hi there I'm [Ishmam Abir Chowdhury](https://www.facebook.com/ishmam.abir/) 👋
 
-- 🔭 I’m a highly motivated and progress focussed web developer.
+- 🔭 I’m a highly motivated and progress focused web developer.
 - 🌱 I'm a tech lover and fast learner.
 - 👯 I’m looking to collaborate with other open source project.
 - 💬 Ask me about tech stuff.
-- ⚡ Fun fact: play games for fun and like travelling.
+- ⚡ Fun fact: play games for fun and like traveling.
 
 ### Connect with me:
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)][linkedin]
