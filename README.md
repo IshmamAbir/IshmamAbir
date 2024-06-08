@@ -23,7 +23,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ishmam.abir)
 
 <details>
-<summary> <h2> 📊 GitHub Stats </h2> </summary>
+<summary> <h2> 📊 GitHub Stats </h2> <hr/></summary>
 
 <div align="center">
 <img width="46%" height="200px" src="https://github-readme-stats.vercel.app/api?username=IshmamAbir&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true" />
@@ -31,8 +31,6 @@
 </div>
 <img width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshmamAbir&langs_count=5&hide=Python,SCSS,CSS,HTML,JavaScript&card_width=550&show_icons=true&theme=catppuccin_mocha&layout=compact" />
 
-![](https://github-readme-stats.vercel.app/api?username=IshmamAbir&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=IshmamAbir&theme=catppuccin_mocha&hide_border=false)<br/>
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=IshmamAbir&langs_count=5&hide=Python,SCSS,CSS,HTML,JavaScript&card_width=550&show_icons=true&theme=catppuccin_mocha&layout=compact)](https://github.com/IshmamAbir)
-
 </details>
+
+<img src="https://raw.githubusercontent.com/IshmamAbir/IshmamAbir/output/snake.svg" alt="Snake animation" />
