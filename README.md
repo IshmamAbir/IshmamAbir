@@ -1,7 +1,5 @@
 ![Cover Image](https://github.com/IshmamAbir/IshmamAbir/blob/main/images/cover.png?raw=true)
 
-![Cover Image](./images/cover.png)
-
 ![](https://komarev.com/ghpvc/?username=IshmamAbir&color=blueviolet)
 
 ### Hi there I'm [Ishmam Abir Chowdhury](https://www.facebook.com/ishmam.abir/) 👋
@@ -12,16 +10,14 @@
 - 💬 Ask me about tech stuff.
 - ⚡ Fun fact: play games for fun and like traveling.
 
-## 🌐 Connect with me:
+## 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/ishmam-abir/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ishmam-abir)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ishmam.abir)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ishmam.abir)
 
-<br />
-
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=IshmamAbir&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IshmamAbir&theme=catppuccin_mocha&hide_border=false)<br/>
