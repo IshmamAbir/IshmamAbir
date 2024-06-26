@@ -11,7 +11,7 @@
 
 - 🎯 I do `Magic` out of `Logic`.
 - 🏘️ Originates from `Bangladesh 🇧🇩`, living in `Japan 🇯🇵`.
-- :collision I’m looking to collaborate with other open source project.
+- :collision: I’m looking to collaborate with other open source project.
 - 🚧 New `portfolio website` is under construction.
 - ⚡ Fun fact: play games for fun and love traveling.
 </div>
@@ -79,9 +79,14 @@
 <img width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshmamAbir&langs_count=5&hide=Python,SCSS,CSS,HTML,JavaScript&card_width=550&show_icons=true&theme=catppuccin_mocha&layout=compact" />
 
 </details>
-<summary> <h3> :snake Contribution Snake </h3> <hr/></summary>
+
+<br>
+
 <details>
+<summary> <h3> :snake: Contribution Snake </h3> <hr/></summary>
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/IshmamAbir/IshmamAbir/output/github-snake.svg" alt="Snake animation" />
 </div>
+
 </details>
