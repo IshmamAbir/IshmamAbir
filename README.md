@@ -11,7 +11,7 @@
 
 - 🎯 I do `Magic` out of `Logic`.
 - 🏘️ Originates from `Bangladesh 🇧🇩`, living in `Japan 🇯🇵`.
-- 🫱🏼‍🫲🏾 I’m looking to collaborate with other open source project.
+- :collision I’m looking to collaborate with other open source project.
 - 🚧 New `portfolio website` is under construction.
 - ⚡ Fun fact: play games for fun and love traveling.
 </div>
@@ -51,7 +51,6 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -80,5 +79,9 @@
 <img width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshmamAbir&langs_count=5&hide=Python,SCSS,CSS,HTML,JavaScript&card_width=550&show_icons=true&theme=catppuccin_mocha&layout=compact" />
 
 </details>
-
-<img src="https://raw.githubusercontent.com/IshmamAbir/IshmamAbir/output/snake.svg" alt="Snake animation" />
+<summary> <h3> :snake Contribution Snake </h3> <hr/></summary>
+<details>
+<div align="center">
+<img src="https://raw.githubusercontent.com/IshmamAbir/IshmamAbir/output/github-snake.svg" alt="Snake animation" />
+</div>
+</details>
