@@ -90,3 +90,13 @@
 </div>
 
 </details>
+
+<details>
+<summary> <h3> :camera: Image Gallery</h3> <hr/> </summary>
+I am a travel freak and love to take pictures with my own ideas.
+<br/>
+<br/>
+<img src="./images/img1/1.jpeg" width="23%"></img> <img src="./images/img1/2.jpeg" width="23%"></img> <img src="./images/img1/3.jpg" width="23%"></img> <img src="./images/img1/4.jpg" width="23%"></img> <img src="./images/img1/5.jpg" width="23%"></img> <img src="./images/img1/6.jpeg" width="23%"></img>
+
+<img src="./images/img1/8.jpg" width="30%"></img> 
+</details>
