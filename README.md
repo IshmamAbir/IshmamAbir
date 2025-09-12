@@ -77,7 +77,6 @@
 - [Set Up Your Own Local GitLab Server | Self-hosted GitLab](https://dev.to/ishmam_abir/set-up-your-own-local-gitlab-server-self-hosted-gitlab-4d1)
 - [Swithing Data Types: Understanding the 'Type Switch' in GoLang](https://dev.to/ishmam_abir/swithing-data-types-understanding-the-type-switch-in-golang-4enc)
 <!-- BLOG-POST-LIST:END -->
-
 <br>
 
 <details>
