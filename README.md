@@ -70,7 +70,7 @@
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-## Recent Articles on [DEV Community: Ishmam Abir | イシュマム・アビル](https://dev.to/ishmam_abir)
+## 📜 Recent Articles on [DEV Community: Ishmam Abir | イシュマム・アビル](https://dev.to/ishmam_abir)
 - [Decoding Golang Interfaces: Why Your Struct Fits an Interface It Never Met](https://dev.to/ishmam_abir/decoding-golang-interfaces-why-your-struct-fits-an-interface-it-never-met-481b)
 - [Automate Github Page Deployment using Vue3/Vite](https://dev.to/ishmam_abir/automate-github-page-deployment-using-vue3vite-12h2)
 - [Publish a Vue.js 3/Vite Project on GitHub Pages](https://dev.to/ishmam_abir/publish-a-vuejs-3vite-project-on-github-pages-2a0b)
