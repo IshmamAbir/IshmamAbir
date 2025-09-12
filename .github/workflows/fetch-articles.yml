@@ -6,7 +6,7 @@ on:
     - cron: '30 0 * * 1/3'  # Runs at 00:30 on every 3rd day-of-week from Monday through Sunday.
   push:
     branches:
-      - ft/article-add-action  # Runs on pushes to the main branch; adjust if your default branch has a different name
+      - main  # Runs on pushes to the main branch; adjust if your default branch has a different name
 
 jobs:
   update-readme:
